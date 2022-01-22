@@ -1,0 +1,1 @@
+alert("Secon js file");
